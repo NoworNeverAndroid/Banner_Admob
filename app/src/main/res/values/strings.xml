@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Banner</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--- PASO 7  IDENTIFICADOR DEL BANNER. CADA UNO PONDRA AQUI SU IDENTIFICADOR-->
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
